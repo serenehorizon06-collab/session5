@@ -1,0 +1,3 @@
+rootProject.name = 'session5'
+include 'api-gateway', 'customer-service'
+
